@@ -1,0 +1,7 @@
+scala JSON.scala address-book.json
+scala
+compiler
+compile
+run address-book.json
+run "address-book.json"
+run
